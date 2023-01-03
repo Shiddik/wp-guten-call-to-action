@@ -1,0 +1,19 @@
+{
+  "name": "wp-guten-call-to-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.1.0"
+  },
+  "dependencies": {
+    "@wordpress/block-editor": "^11.1.0",
+    "@wordpress/blocks": "^12.1.0"
+  }
+}
